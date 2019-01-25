@@ -1,0 +1,20 @@
+=======================
+     01-24-2019
+=======================
+1.取消内置GCam
+2.修复Voice Match
+3.修复Playground
+4.优化暗黑模式
+5.优化OTA功能
+6.最新源码编译
+
+Filename:
+PixelExperience_arm64_ab-9.0-20190124-0519-UNOFFICIAL.img.zip
+
+md5sum:
+a6475173efaeffce16a9fe877bd716bf
+
+How-to Upgrade：
+$ adb reboot bootloader
+$ fastboot flash system path/to/system.img
+$ fastboot reboot
