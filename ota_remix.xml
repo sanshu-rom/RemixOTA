@@ -10,7 +10,7 @@
       <ChangelogUrl
         id="changelogs"
         title="Changelogs"
-        description="Check Out The Latest Changes">https://raw.githubusercontent.com/sanshu-rom/RemixOTA/remix/ota_remix.xml</ChangelogUrl>
+        description="Check Out The Latest Changes">https://raw.githubusercontent.com/sanshu-rom/RemixOTA/remix/changelog/remix_arm64_ab.txt</ChangelogUrl>
       <RomMirrorUrl
         id="romirror"
         title="dospy"
