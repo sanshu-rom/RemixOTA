@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-  <Sanshu>
+  <Stable>
     <phhgsi_arm64_ab>
       <Filename>RR-P-v7.0.0-20190129--Unofficial测试版</Filename>
       <RomUrl
@@ -16,5 +16,5 @@
         title="dospy"
         description="Visit The dospy">https://dospy.wang/forum.php?mod=viewthread&tid=2607&extra=page%3D1</RomMirrorUrl>
     </phhgsi_arm64_ab>
-  </Sanshu>
+  </Stable>
 </SlimOTA>
