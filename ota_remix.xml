@@ -13,8 +13,8 @@
         description="Check Out The Latest Changes">https://raw.githubusercontent.com/sanshu-rom/RemixOTA/remix/changelog/remix_arm64_ab.txt</ChangelogUrl>
       <RomMirrorUrl
         id="romirror"
-        title="dospy"
-        description="Visit The dospy">https://weibo.com/linsanshu?refer_flag=1005055010_</RomMirrorUrl>
+        title="weibo"
+        description="Visit The dospy">http://weibo.com/linsanshu</RomMirrorUrl>
     </phhgsi_arm64_ab>
   </Sanshu>
 </SlimOTA>
