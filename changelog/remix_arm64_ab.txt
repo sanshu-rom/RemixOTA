@@ -1,18 +1,14 @@
 =======================
-     01-24-2019
+     01-26-2019
 =======================
-1.取消内置GCam
-2.修复Voice Match
-3.修复Playground
-4.优化暗黑模式
-5.优化OTA功能
-6.最新源码编译
+1.添加OTAtool
+2.测试ota下载链接
 
 Filename:
-PixelExperience_arm64_ab-9.0-20190124-0519-UNOFFICIAL.img.zip
+RR7.0-2019-01-27-system-arm64-ab-gapps-su-by-sanshu.xz
 
 md5sum:
-a6475173efaeffce16a9fe877bd716bf
+fe2b4f34c2d7fece060ea9b82c3ce93c
 
 How-to Upgrade：
 $ adb reboot bootloader
