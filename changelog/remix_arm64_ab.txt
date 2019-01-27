@@ -1,11 +1,13 @@
 =======================
-     01-26-2019
+     01-27-2019
 =======================
+感谢蜗牛提供技术指导
+
 1.添加OTAtool
 2.测试ota下载链接
 
 Filename:
-RR7.0-2019-01-27-system-arm64-ab-gapps-su-by-sanshu.xz
+RR7.0-20190127-system-arm64-ab-gapps-su-by-sanshu.xz
 
 md5sum:
 fe2b4f34c2d7fece060ea9b82c3ce93c
