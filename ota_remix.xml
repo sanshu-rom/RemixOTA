@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-  <Stable>
+  <Sanshu>
     <phhgsi_arm64_ab>
-      <Filename>20190127正式发布</Filename>
+      <Filename>20190127</Filename>
       <RomUrl
         id="rom"
         title="Rom"
@@ -16,5 +16,5 @@
         title="dospy"
         description="Visit The dospy">https://dospy.wang/forum.php?mod=viewthread&tid=2607&extra=page%3D1</RomMirrorUrl>
     </phhgsi_arm64_ab>
-  </Stable>
+  </Sanshu>
 </SlimOTA>
