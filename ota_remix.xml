@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
     <phhgsi_arm64_ab>
-      <Filename>20190125正式发布</Filename>
+      <Filename>20190127正式发布</Filename>
       <RomUrl
         id="rom"
         title="Rom"
