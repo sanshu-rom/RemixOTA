@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Sanshu>
     <phhgsi_arm64_ab>
-      <Filename>RR-P-v7.0.0-20190127--Unofficial测试版</Filename>
+      <Filename>RR-P-v7.0.0-20190202--Unofficial----新年快乐，阖家团圆！</Filename>
       <RomUrl
         id="rom"
         title="Rom"
