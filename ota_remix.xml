@@ -15,6 +15,10 @@
         id="romirror"
         title="weibo"
         description="Visit The dospy">http://weibo.com/linsanshu</RomMirrorUrl>
+      <PaypalUrl
+        id="donation"
+        title="Donation"
+        description="Donate To The Developer">https://raw.githubusercontent.com/raysenlau/RemixOTA/remix/donation/README</PaypalUrl>
     </phhgsi_arm64_ab>
   </Sanshu>
 </SlimOTA>
