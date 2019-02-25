@@ -1,3 +1,3 @@
 ####捐赠
-![Alipay](httpsraw.githubusercontent.comsanshu-romRemixOTAremixdonationAlipay.jpg)
-![Wechat](httpsraw.githubusercontent.comsanshu-romRemixOTAremixdonationWechat.png)
+![Alipay](https://raw.githubusercontent.com/sanshu-rom/RemixOTA/remix/donation/Alipay.jpg)
+![Wechat](https://raw.githubusercontent.com/sanshu-rom/RemixOTA/remix/donation/Wechat.png)
