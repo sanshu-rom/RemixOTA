@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Sanshu>
     <phhgsi_arm64_ab>
-      <Filename>Bliss-v11.5--UNOFFICIAL-20190310----大姨妈式更新</Filename>
+      <Filename>RR-P-v7.0.0-20190309--Unofficial----大姨妈式更新</Filename>
       <RomUrl
         id="rom"
         title="Rom"
@@ -10,7 +10,7 @@
       <ChangelogUrl
         id="changelogs"
         title="Changelogs"
-        description="Check Out The Latest Changes">https://raw.githubusercontent.com/sanshu-rom/BlissOTA/bliss/changelog/blissx_arm64_ab.txt</ChangelogUrl>
+        description="Check Out The Latest Changes">https://raw.githubusercontent.com/sanshu-rom/RemixOTA/remix/changelog/remix_arm64_ab.txt</ChangelogUrl>
       <RomMirrorUrl
         id="romirror"
         title="weibo"
@@ -18,7 +18,7 @@
       <PaypalUrl
         id="donation"
         title="Donation"
-        description="Donate To The Developer">https://github.com/sanshu-rom/BlissOTA/blob、bliss/donation/README.md</PaypalUrl>
+        description="Donate To The Developer">https://github.com/sanshu-rom/RemixOTA/blob/remix/donation/README.md</PaypalUrl>
     </phhgsi_arm64_ab>
   </Sanshu>
 </SlimOTA>
