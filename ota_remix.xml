@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Sanshu>
     <phhgsi_arm64_ab>
-      <Filename>RR-P-v7.0.2-20190615--Unofficial--月经</Filename>
+      <Filename>RR-P-v7.0.2-20190714--Unofficial--月经</Filename>
       <RomUrl
         id="rom"
         title="Rom"
